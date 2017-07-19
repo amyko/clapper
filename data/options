@@ -1,7 +1,7 @@
 test	#fileName
 test.age	#ageFileName
 refpop	#refPopFileName
-0	#computeLikelihood
+1	#computeLikelihood
 .01	#maf
 .01	#errorRate
 5	#maxGen
