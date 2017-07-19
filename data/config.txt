@@ -1,0 +1,8 @@
+PedigreeFile ~/Downloads/pedigreeSA-master-3/data/test.1.fam
+PedigreeName test
+NameVariable NAME
+FatherVariable FATHER
+MotherVariable MOTHER
+ShapeVariable SEX
+ColorVariable SAMPLED
+TextVariable NAME

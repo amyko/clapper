@@ -1,0 +1,17 @@
+test	#fileName
+test.age	#ageFileName
+refpop	#refPopFileName
+0	#computeLikelihood
+.01	#maf
+.01	#errorRate
+5	#maxGen
+5	#maxSampleDepth	
+0.039	#back
+100	#startTemp
+40000	#iterPerTemp
+1.01	#tempFact
+30000000	#maxIter
+0.0001	#conv
+2	#numThreads
+2	#numRun
+30	#beta
